@@ -1,0 +1,14 @@
+{
+    "name": "liferay-jsonws",
+    "version": "0.0.1",
+    "description": "Liferay Portal JSON WS bindings",
+    "author": "Kristofer <kris@wltrs.org>",
+    "main": "./index",
+    "devDependencies": {
+        "buster": "~0.6"
+    },
+    "scripts": {
+        "test": "./node_modules/.bin/buster test"
+    },
+    "private": true
+}
