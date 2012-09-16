@@ -9,6 +9,5 @@
     },
     "scripts": {
         "test": "./node_modules/.bin/buster test"
-    },
-    "private": true
+    }
 }
